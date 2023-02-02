@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"algoritmos","l":"busqueda"},{"p":"main","l":"caminoOptimoIA"},{"p":"utils","l":"exportaRecorrido"},{"p":"utils","l":"lecturaCSV"},{"p":"forms","l":"menu"},{"p":"entidades","l":"nodo"},{"p":"entidades","l":"vecino"}];updateSearchResults();
